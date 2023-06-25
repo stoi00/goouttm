@@ -1,0 +1,8 @@
+card-actions.card-actions {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+}
+MuiCardMedia-root {
+  padding: 0;
+}

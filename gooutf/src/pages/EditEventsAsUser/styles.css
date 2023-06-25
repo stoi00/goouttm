@@ -1,0 +1,16 @@
+.container {
+  padding: 100px 100px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.responsive-datetime {
+  width: 100%; /* full width on all screen sizes */
+}
+
+@media (min-width: 768px) {
+  .responsive-datetime {
+    width: 50%; /* half width on screens larger than 768px */
+  }
+}

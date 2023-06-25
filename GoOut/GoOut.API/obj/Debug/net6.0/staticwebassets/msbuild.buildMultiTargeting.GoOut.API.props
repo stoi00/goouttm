@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\GoOut.API.props" />
+</Project>
